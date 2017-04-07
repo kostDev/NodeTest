@@ -4,4 +4,5 @@
 -- 2. app 
 <br>
 == Open terminal:
-	$: node <mark>serverName(<b>appsimple</b> or <b>app</b>)</mark>
+<br>
+	$: node <u>serverName</u>(<b> appsimple</b> or <b>app</b>)</mark>
