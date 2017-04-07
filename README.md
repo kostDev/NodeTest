@@ -3,7 +3,7 @@
 <br>
 -- 2. app 
 <br>
-== Open terminal:
+<b>== Open terminal:</b>
 <br>
-	$: node <mark><u>serverName</u></mark>
+	$: node *.js
 	(<b> appsimple</b> or <b>app</b>)
