@@ -5,5 +5,5 @@
 <br>
 <b>== Open terminal:</b>
 <br>
-	$: node *.js
-	(<b> appsimple</b> or <b>app</b>)
+	$: node (<b> appsimple</b> or <b>app</b>).js
+	
