@@ -5,4 +5,5 @@
 <br>
 == Open terminal:
 <br>
-	$: node <u>serverName</u>(<b> appsimple</b> or <b>app</b>)</mark>
+	$: node <mark><u>serverName</u></mark>
+	(<b> appsimple</b> or <b>app</b>)
